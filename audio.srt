@@ -1,0 +1,708 @@
+1
+00:00:00,000 --> 00:00:05,000
+Data software specialist Snowflake reported earnings last night and the
+
+2
+00:00:05,000 --> 00:00:10,640
+stock is off to the races up almost 10% in pre-market trading. So what happened
+
+3
+00:00:10,640 --> 00:00:16,440
+in this quarter and is this an absolutely ridiculous valuation? I mean on the face
+
+4
+00:00:16,440 --> 00:00:28,480
+of it trading for 252 times forwards earnings 95 times free cash flow 23 times sales by all traditional metrics you
+
+5
+00:00:28,480 --> 00:00:32,960
+should stay away from snowflake but I intend to show that not only did the
+
+6
+00:00:32,960 --> 00:00:36,960
+company perform excellently during the quarter but that the valuation might be
+
+7
+00:00:36,960 --> 00:00:41,359
+far more reasonable than you might think. My name is Brian Stofo. We'll figure all
+
+8
+00:00:41,359 --> 00:00:46,840
+that out over the next 10 minutes. As of the time of this recording, I do own shares of snowflake.
+
+9
+00:00:46,920 --> 00:00:50,159
+Want to give a shout out to Ycharts for sponsoring today's video.
+
+10
+00:00:50,200 --> 00:00:51,560
+More from them in just a minute.
+
+11
+00:00:52,000 --> 00:00:53,840
+So confusing calendar here.
+
+12
+00:00:53,840 --> 00:00:57,240
+This is snowflake's third quarter of yes, 2024.
+
+13
+00:00:57,280 --> 00:00:58,359
+They have a weird calendar.
+
+14
+00:00:58,359 --> 00:01:03,399
+It's going to be about a round of $62 billion company on the top line.
+
+15
+00:01:03,399 --> 00:01:07,760
+Revenue grew 32% to 734 million. That was ahead of Wall
+
+16
+00:01:07,760 --> 00:01:12,239
+Street's estimates. Management gives guidance for their product revenue. They don't worry so much
+
+17
+00:01:12,239 --> 00:01:17,920
+about their service revenue and they came in well ahead of their forecast. They beat there as well
+
+18
+00:01:17,920 --> 00:01:23,680
+on the bottom line. Non-gap earnings per share more than doubled to 27 cents per share also ahead
+
+19
+00:01:23,680 --> 00:01:25,920
+of Wall Street's estimates.
+
+20
+00:01:25,920 --> 00:01:27,239
+When we look at margins,
+
+21
+00:01:27,239 --> 00:01:28,640
+run to the nearest whole number,
+
+22
+00:01:28,640 --> 00:01:32,239
+gross margins expanded very nicely to 75%,
+
+23
+00:01:32,239 --> 00:01:35,640
+operating and net margins, both expanded as well,
+
+24
+00:01:35,640 --> 00:01:38,280
+all on a non-gap basis.
+
+25
+00:01:38,280 --> 00:01:42,439
+Free cash flow increased from $65 million to $102 million.
+
+26
+00:01:42,439 --> 00:01:44,480
+Net income increased as well,
+
+27
+00:01:44,480 --> 00:01:46,640
+and the balance sheet is pretty perfect
+
+28
+00:01:46,640 --> 00:01:54,079
+with 4.5 billion dollars in cash and investments on hand and no long term debt to speak of.
+
+29
+00:01:54,079 --> 00:01:56,640
+So let's look at what happened during the quarter.
+
+30
+00:01:56,640 --> 00:02:01,120
+There was some operating leverage that the company realized but not as much as it has
+
+31
+00:02:01,120 --> 00:02:02,319
+in quarters past.
+
+32
+00:02:02,319 --> 00:02:05,099
+We see that sales and marketing fell as a percentage
+
+33
+00:02:05,099 --> 00:02:08,360
+of revenue and so did General and administrative.
+
+34
+00:02:08,360 --> 00:02:12,000
+However, they're spending on research and development actually expanded.
+
+35
+00:02:12,000 --> 00:02:17,300
+That doesn't bother me because this is investments in the company's future and with the advent
+
+36
+00:02:17,300 --> 00:02:22,520
+of AI and chat GPT, the uses for this technology are expanding.
+
+37
+00:02:22,520 --> 00:02:25,840
+Now it is worth noting if you own shares of this company stock
+
+38
+00:02:25,840 --> 00:02:33,680
+based compensation is a very real thing. Almost $300 million during the quarter. It's about 41%
+
+39
+00:02:33,680 --> 00:02:39,840
+of revenue. That's a lot. It's worth stating that's less than it was as a percentage of revenue
+
+40
+00:02:39,840 --> 00:02:46,419
+in the previous quarters. But it is still a lot. and that leads to about 2.8% dilution,
+
+41
+00:02:46,419 --> 00:02:48,039
+that is about the same rate of dilution
+
+42
+00:02:48,039 --> 00:02:50,960
+that we were at at the same time three months ago.
+
+43
+00:02:50,960 --> 00:02:53,479
+Now, moving on to news for the company,
+
+44
+00:02:53,479 --> 00:02:57,919
+total customers were up 24% to almost 9,000,
+
+45
+00:02:57,919 --> 00:02:59,500
+and the number of customers spending
+
+46
+00:02:59,500 --> 00:03:02,520
+at least a million dollars grew 52%,
+
+47
+00:03:02,520 --> 00:03:07,419
+now 436 of them on board. Now this is important
+
+48
+00:03:07,419 --> 00:03:12,500
+remaining performance obligations. It's important to just kind of review the
+
+49
+00:03:12,500 --> 00:03:16,800
+way that Snowflake works. The best way that I like is it's kind of like going to
+
+50
+00:03:16,800 --> 00:03:20,620
+your county fair where you pay a bunch of money at a booth and you get tickets
+
+51
+00:03:20,620 --> 00:03:25,039
+in return and then you submit those tickets to take the ride.
+
+52
+00:03:25,039 --> 00:03:30,280
+Snowflake in very crude way is very similar where companies pay a whole bunch of money
+
+53
+00:03:30,280 --> 00:03:33,039
+and then they run queries on their data.
+
+54
+00:03:33,039 --> 00:03:37,620
+And when they run those queries, that's like turning in the tickets and that's when revenue
+
+55
+00:03:37,620 --> 00:03:38,979
+gets realized.
+
+56
+00:03:38,979 --> 00:03:44,120
+But remaining performance obligations is more like keeping track of how much money has gone
+
+57
+00:03:44,120 --> 00:03:46,620
+into the booth where you get the tickets from and
+
+58
+00:03:46,620 --> 00:03:51,000
+That's why it's a really important indicator now on that on that note
+
+59
+00:03:51,120 --> 00:03:57,479
+What we saw happen was remaining performance obligations is actually only up 23% less than revenue
+
+60
+00:03:57,840 --> 00:04:00,000
+Now part of that might be concerning
+
+61
+00:04:00,000 --> 00:04:02,000
+But it's worth pointing out that other
+
+62
+00:04:05,599 --> 00:04:11,539
+But it's worth pointing out that other usage based products like MongoDB have called out that they are willing to forgo those longer contracts and try and get customers to spend
+
+63
+00:04:11,539 --> 00:04:15,319
+more moving forward by letting them just pay as they go.
+
+64
+00:04:15,319 --> 00:04:16,879
+So that dynamic is there.
+
+65
+00:04:16,879 --> 00:04:20,879
+And you can already see that because if you just look at the amount of remaining performance
+
+66
+00:04:20,879 --> 00:04:28,060
+obligations that the company expects to realize within the next 12 months, that actually jumped 27%.
+
+67
+00:04:28,060 --> 00:04:30,019
+So something to keep your eye on.
+
+68
+00:04:30,019 --> 00:04:35,500
+If there was one weak part of this, this would be it, but not a huge problem.
+
+69
+00:04:35,500 --> 00:04:40,839
+The company's net revenue retention rate remains best in class at 135%.
+
+70
+00:04:40,839 --> 00:04:42,000
+It is coming down.
+
+71
+00:04:42,000 --> 00:04:44,040
+But remember what this means.
+
+72
+00:04:44,040 --> 00:04:49,120
+Means that the company is not only holding on to all of its customers, but on average,
+
+73
+00:04:49,120 --> 00:04:53,160
+it's getting its customers to spend 35% more.
+
+74
+00:04:53,160 --> 00:04:56,920
+That is a fantastic dynamic.
+
+75
+00:04:56,920 --> 00:05:01,439
+It's also worth pointing out that the number of customers that have at least one stable
+
+76
+00:05:01,439 --> 00:05:06,839
+edge, in other words, they're sharing their data in the Snowflake marketplace is now at 28%.
+
+77
+00:05:06,839 --> 00:05:10,319
+And the number of listings of those is up to 2,300.
+
+78
+00:05:10,319 --> 00:05:13,439
+That's up 9% quarter on quarter.
+
+79
+00:05:13,439 --> 00:05:15,519
+And I think it's worth pointing that out
+
+80
+00:05:15,519 --> 00:05:19,079
+because there are high switching costs with Snowflake,
+
+81
+00:05:19,079 --> 00:05:21,199
+but the use of these stable edges
+
+82
+00:05:21,199 --> 00:05:23,959
+and knowing that you can only buy data
+
+83
+00:05:23,959 --> 00:05:27,079
+from other companies and sell it to other companies
+
+84
+00:05:27,079 --> 00:05:29,639
+if you're on the Snowflake platform,
+
+85
+00:05:29,639 --> 00:05:33,199
+introduces another weaker but important mode
+
+86
+00:05:33,199 --> 00:05:34,560
+in the form of network effects.
+
+87
+00:05:34,560 --> 00:05:36,279
+So that is also worth watching.
+
+88
+00:05:36,279 --> 00:05:39,839
+And in my opinion, very, very encouraging.
+
+89
+00:05:39,839 --> 00:05:43,600
+This company is a high quality company.
+
+90
+00:05:43,600 --> 00:05:49,079
+And it showed when the company gave its guidance for the quarter ahead that we're in right
+
+91
+00:05:49,079 --> 00:05:51,879
+now, they called for 718 million.
+
+92
+00:05:51,879 --> 00:05:55,680
+That might look like it's below Wall Street Testaments, but it's actually above.
+
+93
+00:05:55,680 --> 00:05:58,680
+Remember, they only talk about their product revenue.
+
+94
+00:05:58,680 --> 00:06:03,600
+At the midpoint, 718 million, that's 29% growth year over year.
+
+95
+00:06:03,600 --> 00:06:07,000
+Wall Street was expecting 26% year over year.
+
+96
+00:06:07,000 --> 00:06:11,000
+So what should investors watch moving forward? First, that net revenue retention.
+
+97
+00:06:11,000 --> 00:06:16,000
+We want to see it remain above 120% for the next couple of quarters.
+
+98
+00:06:16,000 --> 00:06:24,000
+Number two, $1 million customers who want to see that number continue to grow by at least 30% for the foreseeable future.
+
+99
+00:06:24,000 --> 00:06:26,139
+Stable edge customers and listings
+
+100
+00:06:26,139 --> 00:06:27,819
+for that secondary network effect.
+
+101
+00:06:27,819 --> 00:06:29,220
+Want to see that continue to grow?
+
+102
+00:06:29,220 --> 00:06:31,220
+And then check back in on that RPO.
+
+103
+00:06:31,220 --> 00:06:32,579
+That is an important number
+
+104
+00:06:32,579 --> 00:06:34,899
+of remaining performance obligations.
+
+105
+00:06:34,899 --> 00:06:38,300
+The moat is no doubt widening around this business.
+
+106
+00:06:38,300 --> 00:06:41,339
+The thesis is very, very much on track.
+
+107
+00:06:41,339 --> 00:06:43,699
+So this is a high quality company
+
+108
+00:06:43,699 --> 00:06:45,519
+that scores very well on my investing framework. So it should be no surprise So this is a high quality company that scores very well on my
+
+109
+00:06:45,519 --> 00:06:50,079
+investing framework so it should be no surprise why it is a stock that I own.
+
+110
+00:06:50,079 --> 00:06:54,600
+But now let's turn to valuation. Now remember for me the quality of the
+
+111
+00:06:54,600 --> 00:06:59,680
+company it's anti-fragilities 80% of the equation the other 20% is valuation.
+
+112
+00:06:59,680 --> 00:07:04,680
+And on here I actually think that this stock might be much more affordable or
+
+113
+00:07:04,680 --> 00:07:05,220
+at least
+
+114
+00:07:05,220 --> 00:07:08,040
+not as ridiculously priced as you might think.
+
+115
+00:07:08,040 --> 00:07:12,360
+Now first, we've got to ask ourselves, where is it in the growth cycle?
+
+116
+00:07:12,360 --> 00:07:15,800
+And I would say somewhere between stages three and four.
+
+117
+00:07:15,800 --> 00:07:17,879
+And so there's some metrics we can look at.
+
+118
+00:07:17,879 --> 00:07:19,199
+And for that, we go to why charts.
+
+119
+00:07:19,199 --> 00:07:22,439
+It's a tool that Brian Frollini use every day.
+
+120
+00:07:22,439 --> 00:07:25,040
+If you'd like to join us in using it every day, click the link
+
+121
+00:07:25,040 --> 00:07:29,600
+on the show notes below. Mention Brian Frodina, at least name and you'll get 20% off of your
+
+122
+00:07:29,600 --> 00:07:35,759
+subscription. So we head on over and we see that Snowflakes doesn't have a trailing PE ratio on a
+
+123
+00:07:35,759 --> 00:07:45,360
+gap basis. On a forward basis, it's 252. Now, that might be lower than it's been at any point in the past year or two, it is still
+
+124
+00:07:45,360 --> 00:07:47,639
+a ridiculously high number.
+
+125
+00:07:47,639 --> 00:07:48,879
+So very expensive.
+
+126
+00:07:48,879 --> 00:07:54,560
+If we look at gross profit and add in what we saw over the previous quarter, what we see
+
+127
+00:07:54,560 --> 00:07:58,600
+is that it's trading for about 35 times gross profit.
+
+128
+00:07:58,600 --> 00:08:04,120
+And if we look at free cash flows trading at about 95 times free cash flow, no matter
+
+129
+00:08:04,120 --> 00:08:08,199
+how you slice this, extremely, extremely expensive.
+
+130
+00:08:08,199 --> 00:08:11,040
+This would be like a stay away from it type of stock
+
+131
+00:08:11,040 --> 00:08:12,160
+for many investors.
+
+132
+00:08:12,160 --> 00:08:17,120
+However, we can also use a reverse discounted cashflow model
+
+133
+00:08:17,120 --> 00:08:19,480
+to figure out what we think of it.
+
+134
+00:08:19,480 --> 00:08:22,779
+For this tool, this is a tool that Brian Froly, Brian Withers,
+
+135
+00:08:22,779 --> 00:08:24,240
+and I built ourselves.
+
+136
+00:08:24,240 --> 00:08:29,360
+Now, if you disagree with any input that I am putting into it for Snowflake, you can simply download
+
+137
+00:08:29,360 --> 00:08:33,759
+a copy of this absolutely free and input your own numbers. Just click the link in the show
+
+138
+00:08:33,759 --> 00:08:39,320
+notes below. Here's what I'm going to do to just kind of run us through how this works.
+
+139
+00:08:39,320 --> 00:08:47,120
+What you first do is you put in the ticker symbol right here, SNOW. Put in trailing free cash flow, so about $632
+
+140
+00:08:47,120 --> 00:08:53,759
+million. I'm going to put in a terminal growth rate of 2%, a discount rate of 10%. Now, you might
+
+141
+00:08:53,759 --> 00:09:00,720
+say, well, I want a market feeder, it should be 11 or 12%. You can do that. That's just getting the
+
+142
+00:09:00,720 --> 00:09:06,240
+market average return over the next decade. I'm saying 10%. And then we just have to
+
+143
+00:09:06,240 --> 00:09:11,519
+go and tell these two prices match. Now, it's worth noting that this will likely jump to about
+
+144
+00:09:11,519 --> 00:09:18,240
+$190 once the market opens. So I'll just change that. But now I just play with this until they match.
+
+145
+00:09:18,240 --> 00:09:28,919
+So 25, I'm going to have to go up to 30, 31%. So somewhere between 30 and 31% the stock has to grow.
+
+146
+00:09:28,919 --> 00:09:34,000
+In order, it's free cash flow over the next 10 years in order to justify today's price.
+
+147
+00:09:34,000 --> 00:09:40,159
+That might seem like a lot, especially because the top line is expected to grow by 31% over
+
+148
+00:09:40,159 --> 00:09:43,759
+the next few years, but keeping that up for a decade might be really hard.
+
+149
+00:09:43,759 --> 00:09:46,240
+However, there's another wrinkle to add in there,
+
+150
+00:09:46,240 --> 00:09:49,360
+and that's that this company's free cash flow margin
+
+151
+00:09:49,360 --> 00:09:53,799
+or the percent of revenue that it turns into free cash flow
+
+152
+00:09:53,799 --> 00:09:55,000
+is still not optimized.
+
+153
+00:09:55,000 --> 00:09:59,279
+And management says it should reach 30% by 2029.
+
+154
+00:09:59,279 --> 00:10:04,039
+So if we go back and we assume that 30% of its revenue
+
+155
+00:10:04,039 --> 00:10:06,659
+is free cash flow, that changes things a little
+
+156
+00:10:06,659 --> 00:10:11,799
+bit because then free cash flow would be about 800 million and then this growth rate could
+
+157
+00:10:11,799 --> 00:10:22,039
+actually come down to about 28, maybe 26, somewhere around 27, depending on where the stock opens
+
+158
+00:10:22,039 --> 00:10:25,960
+today. So 27%. Now, that is still a high number,
+
+159
+00:10:25,960 --> 00:10:26,879
+but think of it this way,
+
+160
+00:10:26,879 --> 00:10:31,120
+you have a usage-based software product in the age of AI
+
+161
+00:10:31,120 --> 00:10:32,720
+that needs to grow,
+
+162
+00:10:32,720 --> 00:10:35,679
+assuming it gets a 30% free cashflow margin,
+
+163
+00:10:35,679 --> 00:10:39,480
+it needs to grow its revenue by about 27% per year
+
+164
+00:10:39,480 --> 00:10:40,480
+for 10 years.
+
+165
+00:10:40,480 --> 00:10:42,399
+Very high hurdle,
+
+166
+00:10:42,399 --> 00:10:47,220
+but the company is expected to grow at 31% pretty consistently over the
+
+167
+00:10:47,220 --> 00:10:48,220
+next couple of years.
+
+168
+00:10:48,220 --> 00:10:54,259
+And if it can do that, or it can eke out more than 30% free cash flow margin, well, then
+
+169
+00:10:54,259 --> 00:10:56,440
+you've got market beating potential.
+
+170
+00:10:56,440 --> 00:10:59,559
+To me, that means that it's actually quite reasonable.
+
+171
+00:10:59,559 --> 00:11:06,240
+And if I had to put it somewhere on a spectrum, I would say it lands somewhere right here. Not a screaming
+
+172
+00:11:06,240 --> 00:11:11,440
+by by any stretch of the imagination, but I don't think it's quite as expensive as people think.
+
+173
+00:11:11,440 --> 00:11:16,240
+And no matter what you think of the evaluation, there's no doubt that this is a very high quality
+
+174
+00:11:16,240 --> 00:11:20,639
+company. I'm sure you're going to get some people that might disagree with that valuation take.
+
+175
+00:11:20,639 --> 00:11:24,320
+Probably a lot less when it comes to the company quality take, but you can let me know what you
+
+176
+00:11:24,320 --> 00:11:27,320
+think in the show notes below. and we'll check back in on
+
+177
+00:11:27,320 --> 00:11:32,879
+this one in 90 days. Until then, Brian, out.
+
